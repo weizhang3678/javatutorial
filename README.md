@@ -1,5 +1,5 @@
-# javatutorial
-java study
+# javatutorial. 
+java study.  
 Class 1: Starting with Java.  
 Class 2: Java do Arithmetic.  
 Class 3: What if (Conditions). 
@@ -15,7 +15,7 @@ Class 12: Search.
 Class 13: Sorting. 
 Class 14: Recursion.  
 Class 15: Io.
-Workshops1
+Workshops1.  
 to be continue....
  
 

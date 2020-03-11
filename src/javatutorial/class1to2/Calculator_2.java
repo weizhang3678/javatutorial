@@ -151,7 +151,7 @@ public class Calculator_2 extends JFrame implements ActionListener {
 			sum = 0;// TODO
 			break;
 		case "/":
-			sum = Math.sqrt(firstNumber);
+			sum = 0;// TODO
 			break;
 		case "MOD": 
 			sum = 0;// TODO
@@ -160,7 +160,7 @@ public class Calculator_2 extends JFrame implements ActionListener {
 			sum = 0;// TODO
 			break;
 		case "√": 
-			sum = 0;// TODO
+			sum = Math.sqrt(firstNumber);
 			break;
 		case "sin": 
 			sum = 0;// TODO
